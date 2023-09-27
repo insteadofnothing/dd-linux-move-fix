@@ -1,0 +1,8 @@
+{
+	"name": "Linux Move Fix",
+	"unique_id": "insteadofnothing.LinuxMoveFix",
+	"version": "1.0.0",
+	"author": "insteadofnothing",
+	"description": "A fix for the slow dragging on Linux.",
+	"dd_version": "1.1.0.0",
+}
